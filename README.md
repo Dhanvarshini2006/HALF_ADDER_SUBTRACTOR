@@ -91,7 +91,11 @@ endmodule
 
 **RTL:**
 
+**HALF ADDER**
+![exp3 diagram](https://github.com/user-attachments/assets/bf61dc11-a518-4ea8-b9a1-59f96d0af438)
 
+
+**HALF SUBTRACTOR**
 ![exp3 2) diagram](https://github.com/user-attachments/assets/546d64ca-505d-49fb-8358-aee957f5ee13)
 
 
